@@ -1,4 +1,4 @@
-ppp-chrome-browser
+ppp-firefox-browser
 ==================
 
 A [`peer-pressure`](https://www.npmjs.com/package/peer-pressure) plugin to run tests in the [FireFox](https://www.mozilla.org/en-US/firefox/) browser through [puppeteer](https://www.npmjs.com/package/puppeteer)
