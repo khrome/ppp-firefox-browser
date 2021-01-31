@@ -1,0 +1,13 @@
+{
+  "name": "ppp-firefox-browser",
+  "version": "0.0.2",
+  "main": "firefox.js",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "webpack": "^5.17.0"
+  }
+}
